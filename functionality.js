@@ -23,7 +23,9 @@ function loadFunction(){
 		"Thank you for a great semester, have a great summer!",
 		"Anonymous",
 		"Thank you Dr. Steichen for all your help! We greatly appreciate all that you do to ensure your students succeed :)",
-		"Jordyn Sato"
+		"Jordyn Sato",
+		"Thank you for being the best research professor! Your hard work and dedication to the students have meant so much to us, including me. You have jump started my career, and I owe you so much for it! I hope to see you again before moving to Washington. As you said, we haven't seen each other since last year!",
+		"Jesus Leon"
 	]
 
 	for(i = 0; i < responses.length; i++){
