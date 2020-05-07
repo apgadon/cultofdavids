@@ -36,9 +36,12 @@ function loadFunction(){
 		"Hi Dr. Steichen! Thank you for being a caring and helpful professor. I have definitely learned a lot of unique topics in your class! I appreciate all the support you give to your students, and I hope you are staying safe!",
 		"Catherine Gronkiewicz",
 		"Thank you for a great semester Dr. Steichen! Your GUI class is one of my favorite classes, the things I've learned in that class have changed how I see things around me forever (that sounds dramatic but it's true!). Although the transition to online classes has been hard for everyone I think you did a great job in switching to the online format. I wish you and your loved ones all the best, have a great summer vacation!",
-		"Amanda C.".
+		"Amanda C.",
 		"Thank you for this sheCodes family <3 ",
-		"Anonymous"
+		"Anonymous",
+		"Thank you so much for bringing valuable knowledge to us! Fun fact, I use what I learn from your class and tutor a group of students to prepare for their CS final! They did well! Just remember! You're important to us! Bringing us valuable lessons and lectures!",
+		"Guy from your CS141 in Fall 2017. That polymorphism guy."
+
 	]
 
 	for(i = 0; i < responses.length; i++){
