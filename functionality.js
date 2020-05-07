@@ -21,7 +21,7 @@ function loadFunction(){
 		"Thank you Dr. Steichen! You've contributed so much to this school and to my own personal academic goals. I don't know a single student that hasn't enjoyed being in your classes or doing research with you. Stay toasty up there in the mountains, and hope to see you soon :)",
 		"Angela Gadon",
 		"Thank you for a great semester, have a great summer!",
-		"",
+		"Anonymous",
 		"Thank you Dr. Steichen for all your help! We greatly appreciate all that you do to ensure your students succeed :)",
 		"Jordyn Sato"
 	]
