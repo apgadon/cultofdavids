@@ -34,7 +34,11 @@ function loadFunction(){
 		"Hi Dr. Steichen!  I have definitely learned so much in your classes and you are one of my favorite professors I have had here at school! Thank you for being one of the coolest (and chillest) CS professors, and teaching me topics that truly support my career path. Hope you are staying healthy and safe!",
 		"Anonymous",
 		"Hi Dr. Steichen! Thank you for being a caring and helpful professor. I have definitely learned a lot of unique topics in your class! I appreciate all the support you give to your students, and I hope you are staying safe!",
-		"Catherine Gronkiewicz"
+		"Catherine Gronkiewicz",
+		"Thank you for a great semester Dr. Steichen! Your GUI class is one of my favorite classes, the things I've learned in that class have changed how I see things around me forever (that sounds dramatic but it's true!). Although the transition to online classes has been hard for everyone I think you did a great job in switching to the online format. I wish you and your loved ones all the best, have a great summer vacation!",
+		"Amanda C.".
+		"Thank you for this sheCodes family <3 ",
+		"Anonymous"
 	]
 
 	for(i = 0; i < responses.length; i++){
