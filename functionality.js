@@ -2,6 +2,8 @@
 
 function loadFunction(){
 	let responses = [
+		"thank you so much for the absolute banger of a course, for making learning gui fun! i learned a lot of things that i'll be keeping with me. i hope you enjoy your time in the mountains and safe skiing!!",
+		"april",
 		"Hi Dr. Steichen! I really learned a lot from you this entire semester and I feel like Programming GUIs is one of the few CS classes that I really felt like I learned something. Thank you so much for being such a great professor and having such an interesting and fun class! :)", 
 		"Marlon Aquino",
 		"Hi Professor! Thank you so much for being such a patient and caring educator. You may not realize it, but it really helps a lot of us out, especially people like me with a lot on their plates. I realize we have not been working together for very long, but even so, you've done a lot to help me, and I hope to be able to do the same!",
