@@ -6,11 +6,11 @@
 }
 
 html {
-  background-image: url(mountains.jpg);
+  background-image: url(mountains2.jpg);
+  background-position: top;
   background-repeat: repeat; 
-   max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 html,
@@ -30,9 +30,11 @@ body {
 }
 
 h1{
-  font-size: 64px;
-
+  font-size: 56px;
+  margin-bottom: 2px;
 }
+
+
 h3 {
   color: #262626;
   font-size: 17px;
@@ -74,30 +76,22 @@ p.small {
 }
 
 .seal {
-  top: calc(50% - 24px); /*set to half of card + half of seal*/
+  top: calc(50% - 18px); /*set to half of card + half of seal*/
   right: 0px;
   align-items: center;
   justify-content: center;
   position: absolute;
-  width: 48px;
-  height: 48px;
+  width: 36px;
+  height: 36px;
   overflow: hidden;
   background-color: darkred;
   border-radius: 100% 100% 100% 100%;
 }
 .card:hover > .seal {
-    width: 32px;
-    right: -16px;
+    width: 22px;
+    right: -8px;
     
 }
-/*
-.go-arrow {
-  margin-top: -4px;
-  margin-right: -4px;
-  color: white;
-  font-family: courier, sans;
-}
-*/
 /*Thank-you cards */
 .card {
 
@@ -115,14 +109,13 @@ p.small {
   text-decoration: none;
   z-index: 0;
   overflow: hidden;
-  border: 1px solid #f2f8f9;
+  
 }
 
 .card:hover {
     transition: all 0.2s ease-out;
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     top: -4px;
-    border: 1px solid #cccccc;
     background-color: white;
 }
 
@@ -130,24 +123,5 @@ p.small {
   text-align: center;
   padding:20px 20px 20px 20px;
 }
-/* Little letter seal 
-.card:before {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    top:  60px;
-    right: -16px;
-    background: darkred;
-    height: 24px;
-    width: 24px;
-    border-radius: 32px;
-    transform: scale(2);
-    transform-origin: 50% 50%;
-    transition: transform 0.15s ease-out;
-}
-  .card:hover:before {
-    transform: scale(2.15);
-}
-*/
 
   

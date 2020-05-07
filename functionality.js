@@ -30,7 +30,11 @@ function loadFunction(){
 		"Thanks Dr. Ben Steichen! The course I had with you was great & it was fun learning how the web searches works!",
 		"Daniel Santana",
 		"Dr. Steichen! Thank you so much for an amazing end of the Spring semester! Funny enough, you actually inspired me to dive deeper into web development after I took your course last spring semester (CS 2990) and I've now gone into the web development route because of you. I thoroughly enjoyed your humor from time to time in CS 4990 and CS 2450 and I hope that we can someday cross paths on campus this time! Enjoy skiing!",
-		"Samuel Belarmino"
+		"Samuel Belarmino",
+		"Hi Dr. Steichen!  I have definitely learned so much in your classes and you are one of my favorite professors I have had here at school! Thank you for being one of the coolest (and chillest) CS professors, and teaching me topics that truly support my career path. Hope you are staying healthy and safe!",
+		"Anonymous",
+		"Hi Dr. Steichen! Thank you for being a caring and helpful professor. I have definitely learned a lot of unique topics in your class! I appreciate all the support you give to your students, and I hope you are staying safe!",
+		"Catherine Gronkiewicz"
 	]
 
 	for(i = 0; i < responses.length; i++){
@@ -53,22 +57,5 @@ function loadFunction(){
 		nodeCard.appendChild(nodeP);
 		nodeCard.appendChild(nodeName);
 		document.getElementsByClassName("container")[0].appendChild(nodeCard);
-		/*
-		var textnode = document.createTextNode(chatText);
-		node.appendChild(textnode);
-		*/
-		
-		/*
-		<a class="card">
-	      <div class="lip"></div>
-	      <div class="seal"></div>
-	      <p class="small">
-	        
-	      </p>
-	      <h4>
-	        
-	      </h4>
-	    </a>
-	    */
 	}
 };
