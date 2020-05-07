@@ -1,6 +1,7 @@
 
 
 function loadFunction(){
+
 	let responses = [
 		"thank you so much for the absolute banger of a course, for making learning gui fun! i learned a lot of things that i'll be keeping with me. i hope you enjoy your time in the mountains and safe skiing!!",
 		"april",
@@ -10,7 +11,7 @@ function loadFunction(){
 		"Shannon Trinh",
 		"Hi Professor! Thank you so much for being such an awesome teacher this past semester! I learned a lot from your lectures and appreciate the enthusiasm and energy you have put into each and every class! I hope that you have a fantastic summer! If our paths do not cross again after graduation, I wish you the very best in life because you deserve it (hopefully they cross again lol)",
 		"Ronald Tran",
-		"Hi Dr. Steichen!! Thank you for all your help and support these past two years :) it’s been super encouraging and I’m excited to see how sheCodes will be next year with your help & support!",
+		"Hi Dr. Steichen!! Thank you for all your help and support these past two years :) I’ve learned so much from your GUI class, to having the honor of doing research with you, and now getting to work alongside you for sheCodes! You have helped me become a better student and person, and with your help I’ve become more confident in my abilities. I’m excited to see how sheCodes and research will continue into next year!",
 		"Patriz",
 		"Hi Dr. Steichen, it's been a blast being in this class. Thank you for taking the time to explain everything so clearly and for really caring about your students! We appreciate you!",
 		"Tera E.",
@@ -25,7 +26,11 @@ function loadFunction(){
 		"Thank you Dr. Steichen for all your help! We greatly appreciate all that you do to ensure your students succeed :)",
 		"Jordyn Sato",
 		"Thank you for being the best research professor! Your hard work and dedication to the students have meant so much to us, including me. You have jump started my career, and I owe you so much for it! I hope to see you again before moving to Washington. As you said, we haven't seen each other since last year!",
-		"Jesus Leon"
+		"Jesus Leon",
+		"Thanks Dr. Ben Steichen! The course I had with you was great & it was fun learning how the web searches works!",
+		"Daniel Santana",
+		"Dr. Steichen! Thank you so much for an amazing end of the Spring semester! Funny enough, you actually inspired me to dive deeper into web development after I took your course last spring semester (CS 2990) and I've now gone into the web development route because of you. I thoroughly enjoyed your humor from time to time in CS 4990 and CS 2450 and I hope that we can someday cross paths on campus this time! Enjoy skiing!",
+		"Samuel Belarmino"
 	]
 
 	for(i = 0; i < responses.length; i++){
