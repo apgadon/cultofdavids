@@ -6,7 +6,10 @@
 }
 html {
   background-image: url(mountains.jpg);
-  background-repeat: repeat-x; 
+  background-repeat: repeat; 
+   max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 html,
 body {
