@@ -1,2 +1,0 @@
-# cultofdavids
-Secret project ; )
