@@ -46,8 +46,9 @@ function loadFunction(){
 		"Hello Professor! I just wanted to say that I appreciate all that you have done for us in these trying times. Although the transition to online class have been difficult, I feel as the quality of education remains the same. I learned so much in your GUI class and it is definitely one of my favorite courses for far! Thank you for a great semester and I hope you have a fantastic summer in your winter cabin! ",
 		"Sandra M. ",
 		"Hi Professor! Thank you so much for being a kind and understanding professor. I really appreciated you taking the time to make sure that we're doing okay and for trying your best to help us with any problems we had. I know that you have a lot on your plate with teaching and research so it meant a lot that you took the time to check up on me when I was having problems with my IDE and when I applied for my DRC accommodations. I hope I get to have another class with you in the future. Have a great summer!",
-		"Nana Mimura"
-
+		"Nana Mimura",
+		"Hi Dr. Steichen, I just wanted to say thank you for all the academic support you have provided not just me, but the many other students in our class. Your Web Search class has enlightened me on a field of CS that I never initially considered and just wanted to say thank you and that we are truly grateful for all that you do, and continue to do!",
+		"Kenneth-Matthew Velarde"
 	]
 
 	for(i = 0; i < responses.length; i++){
