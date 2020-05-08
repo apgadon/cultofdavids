@@ -101,7 +101,6 @@ p.small {
   max-width: 20%;
   max-height: 500px;
   min-height:150px;
-
   background-color: #f2f8f9;
   border-radius: 4px;
   padding: 32px 24px;
@@ -119,6 +118,9 @@ p.small {
     background-color: white;
 }
 
+.card>*{
+  max-width: 90%;
+}
 #intro{
   text-align: center;
   padding:20px 20px 20px 20px;

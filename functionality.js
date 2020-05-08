@@ -40,7 +40,13 @@ function loadFunction(){
 		"Thank you for this sheCodes family <3 ",
 		"Anonymous",
 		"Thank you so much for bringing valuable knowledge to us! Fun fact, I use what I learn from your class and tutor a group of students to prepare for their CS final! They did well! Just remember! You're important to us! Bringing us valuable lessons and lectures!",
-		"Guy from your CS141 in Fall 2017. That polymorphism guy."
+		"Guy from your CS141 in Fall 2017. That polymorphism guy.",
+		"Thank you for everything in CS 141!",
+		"Anonymous",
+		"Hello Professor! I just wanted to say that I appreciate all that you have done for us in these trying times. Although the transition to online class have been difficult, I feel as the quality of education remains the same. I learned so much in your GUI class and it is definitely one of my favorite courses for far! Thank you for a great semester and I hope you have a fantastic summer in your winter cabin! ",
+		"Sandra M. ",
+		"Hi Professor! Thank you so much for being a kind and understanding professor. I really appreciated you taking the time to make sure that we're doing okay and for trying your best to help us with any problems we had. I know that you have a lot on your plate with teaching and research so it meant a lot that you took the time to check up on me when I was having problems with my IDE and when I applied for my DRC accommodations. I hope I get to have another class with you in the future. Have a great summer!",
+		"Nana Mimura"
 
 	]
 
